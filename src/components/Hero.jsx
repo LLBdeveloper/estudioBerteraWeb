@@ -68,7 +68,7 @@ const Hero = () => {
               <div className="flex items-center space-x-4">
                 <div className="w-12 h-12 bg-primary rounded-full flex items-center justify-center">
                   <svg
-                    className="w-6 h-6 text-primary-foreground"
+                    className="w-6 h-6 text-primary-foreground "
                     fill="none"
                     viewBox="0 0 24 24"
                     stroke="currentColor"
