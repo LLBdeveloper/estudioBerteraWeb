@@ -48,7 +48,7 @@ const Services = () => {
   ]
 
   return (
-    <section className="py-20 bg-secondary/30">
+    <section id="servicios" className="py-20 bg-secondary/30">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-serif text-balance mb-6">
@@ -75,7 +75,7 @@ const Services = () => {
               <p className="text-muted-foreground leading-relaxed">{service.description}</p>
 
               <button className="mt-6 text-primary hover:text-primary/80 transition-colors font-medium flex items-center">
-                Más información
+                <a href="https://maps.app.goo.gl/vpZiv1eFfrqxaryW7" target="_blank">Más información</a>
                 <svg className="w-4 h-4 ml-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M9 5l7 7-7 7" />
                 </svg>

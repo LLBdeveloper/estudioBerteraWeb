@@ -6,7 +6,7 @@ const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false)
 
   return (
-    <header className="bg-background border-b border-border">
+    <header id="menu" className="bg-background border-b border-border">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center py-4">
           {/* Logo */}
@@ -34,7 +34,8 @@ const Header = () => {
           <div className="hidden lg:flex items-center space-x-4 text-sm">
             <span className="text-muted-foreground">116533-8090</span>
             <button className="bg-primary text-primary-foreground px-4 py-2 rounded-md hover:bg-primary/90 transition-colors font-medium">
-              Consulta Gratuita
+              <a href="https://web.whatsapp.com/send?phone=5491165338090&text=Hola%20quiero%20hacer%20una%20consulta%20sobre%20sus%20servicios%20legales%2C%20me%20contacto%20via%20http%3A%2F%2Fwww.estudiobertera.com%2F%20." 
+        target="_blank">Consulta Gratuita</a>
             </button>
           </div>
 

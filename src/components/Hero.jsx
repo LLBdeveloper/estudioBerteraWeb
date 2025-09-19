@@ -25,13 +25,13 @@ const Hero = () => {
 
             <div className="flex flex-col sm:flex-row gap-4">
               <button className="bg-primary text-primary-foreground px-8 py-4 rounded-md hover:bg-primary/90 transition-colors font-medium text-lg">
-                Consulta Gratuita
+                <a href="https://web.whatsapp.com/send?phone=5491165338090&text=Hola%20quiero%20hacer%20una%20consulta%20sobre%20sus%20servicios%20legales%2C%20me%20contacto%20via%20http%3A%2F%2Fwww.estudiobertera.com%2F%20." 
+        target="_blank">Consulta Gratuita</a>
               </button>
               <button className="border border-border text-foreground px-8 py-4 rounded-md hover:bg-secondary transition-colors font-medium text-lg">
-                Conocer Más
+                <a href="https://maps.app.goo.gl/vpZiv1eFfrqxaryW7" target="_blank">Conocer Más</a>
               </button>
             </div>
-
             {/* Stats */}
             <div className="grid grid-cols-3 gap-8 pt-8 border-t border-border">
               <div className="text-center">

@@ -5,7 +5,9 @@ const Footer = () => {
         <div className="grid md:grid-cols-4 gap-8">
           {/* Logo and Description */}
           <div className="md:col-span-2 space-y-4">
-            <img src="/images/logo.png" alt="Ibañez & Bertera Asociados" className="h-12 w-auto" />
+            <a href="#menu">
+              <img  src="/images/logo.png" alt="Ibañez & Bertera Asociados" className="h-12 w-auto" />
+            </a>
             <p className="text-muted-foreground leading-relaxed max-w-md">
               Con 33 años de experiencia, brindamos asesoramiento jurídico integral con compromiso, dedicación y
               resultados exitosos.
@@ -105,7 +107,7 @@ const Footer = () => {
 
         <div className="border-t border-border mt-12 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-muted-foreground text-sm">
-            © 2024 Ibañez & Bertera Asociados. Todos los derechos reservados.
+            © 2025 Ibañez & Bertera Asociados. Todos los derechos reservados. // POWERED BY WebMasterStudio
           </p>
           <div className="flex space-x-6 mt-4 md:mt-0">
             <a href="#" className="text-muted-foreground hover:text-primary transition-colors text-sm">
