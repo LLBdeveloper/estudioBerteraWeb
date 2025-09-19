@@ -8,9 +8,6 @@ export const metadata: Metadata = {
   title: '- Estudio Bertera & Asociados -',
   description: 'Abogado en Monte Grande',
   generator: 'Web Master Studio',
-  icons: {
-    icon: '/favicon.ico', // 👈 acá tu favicon
-  },
 }
 
 export default function RootLayout({
