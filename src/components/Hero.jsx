@@ -12,12 +12,12 @@ const Hero = () => {
               <h1 className="text-4xl md:text-5xl lg:text-6xl font-serif text-balance leading-tight">
                 <span className="text-foreground">Experiencia y</span>
                 <br />
-                <span className="text-primary">compromiso legal</span>
+                <span className="text-primary ">compromiso legal</span>
                 <br />
-                <span className="text-foreground">desde 1991</span>
+                <span className="text-foreground text-yellow-400">desde 1991</span>
               </h1>
 
-              <p className="text-xl text-muted-foreground text-pretty max-w-2xl leading-relaxed">
+              <p className="text-xl text-muted-foreground text-pretty max-w-2xl leading-relaxed ">
                 Con 33 años de trayectoria, brindamos asesoramiento jurídico integral en accidentes de tránsito, derecho
                 laboral y derecho de familia en Monte Grande.
               </p>

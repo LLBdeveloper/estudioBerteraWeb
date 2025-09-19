@@ -4,9 +4,9 @@ const Contact = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
           <h2 className="text-3xl md:text-4xl font-serif text-balance mb-6">
-            <span className="text-foreground">Estamos aquí para</span>
+            <span className="text-foreground ">Estamos aquí para</span>
             <br />
-            <span className="text-primary">ayudarte</span>
+            <span className="text-primary text-yellow-400">ayudarte</span>
           </h2>
           <p className="text-xl text-muted-foreground text-pretty max-w-3xl mx-auto leading-relaxed">
             Contáctanos para una consulta gratuita. Te escuchamos y te brindamos el mejor asesoramiento legal para tu

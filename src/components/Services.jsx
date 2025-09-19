@@ -51,8 +51,8 @@ const Services = () => {
     <section id="servicios" className="py-20 bg-secondary/30">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="text-center mb-16">
-          <h2 className="text-3xl md:text-4xl font-serif text-balance mb-6">
-            Nuestras <span className="text-primary">especialidades</span>
+          <h2 className="text-3xl md:text-4xl font-serif text-balance mb-6 text-yellow-400">
+            Nuestras <span className="text-primary text-yellow-400">especialidades</span>
           </h2>
           <p className="text-xl text-muted-foreground text-pretty max-w-3xl mx-auto leading-relaxed">
             Brindamos asesoramiento legal especializado con la experiencia y dedicación que su caso merece, siempre
