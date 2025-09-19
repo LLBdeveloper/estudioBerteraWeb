@@ -14,7 +14,7 @@ const Hero = () => {
                 <br />
                 <span className="text-primary ">compromiso legal</span>
                 <br />
-                <span className="text-foreground text-yellow-400">desde 1991</span>
+                <span className=" text-yellow-400">desde 1991</span>
               </h1>
 
               <p className="text-xl text-muted-foreground text-pretty max-w-2xl leading-relaxed ">
