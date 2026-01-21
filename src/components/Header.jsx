@@ -66,7 +66,7 @@ const Header = () => {
               <div className="pt-4 border-t border-border">
                 <p className="text-muted-foreground text-sm mb-2">116533-8090</p>
                 <button className="bg-primary text-primary-foreground px-4 py-2 rounded-md hover:bg-primary/90 transition-colors font-medium w-full">
-                  Consulta Gratuita
+                  Consultas
                 </button>
               </div>
             </nav>

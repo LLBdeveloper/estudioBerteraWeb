@@ -28,7 +28,7 @@ const Hero = () => {
                 <a href="https://api.whatsapp.com/send?phone=5491165338090&text=Hola%20quiero%20hacer%20una%20consulta%20sobre%20sus%20servicios%20legales%2C%20me%20contacto%20via%20http%3A%2F%2Fwww.estudiobertera.com%2F%20." 
                   target="_blank" 
                   rel="noopener noreferrer">
-                  Consulta Gratuita
+                  Consulta
                 </a>
               </button>
               <button className="border border-border text-foreground px-8 py-4 rounded-md hover:bg-secondary transition-colors font-medium text-lg">
@@ -46,8 +46,8 @@ const Hero = () => {
                 <div className="text-sm text-muted-foreground">Casos resueltos</div>
               </div>
               <div className="text-center">
-                <div className="text-3xl font-bold text-primary">24/7</div>
-                <div className="text-sm text-muted-foreground">Atención disponible</div>
+                <div className="text-3xl font-bold text-primary">Atención perzonalizada</div>
+                <div className="text-sm text-muted-foreground">Alta calidad</div>
               </div>
             </div>
           </div>
