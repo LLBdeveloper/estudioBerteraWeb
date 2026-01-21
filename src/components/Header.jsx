@@ -35,7 +35,7 @@ const Header = () => {
             <span className="text-muted-foreground">116533-8090</span>
             <button className="bg-primary text-primary-foreground px-4 py-2 rounded-md hover:bg-primary/90 transition-colors font-medium">
               <a href="https://web.whatsapp.com/send?phone=5491165338090&text=Hola%20quiero%20hacer%20una%20consulta%20sobre%20sus%20servicios%20legales%2C%20me%20contacto%20via%20http%3A%2F%2Fwww.estudiobertera.com%2F%20." 
-        target="_blank">Consulta Gratuita</a>
+        target="_blank">Consulta</a>
             </button>
           </div>
 

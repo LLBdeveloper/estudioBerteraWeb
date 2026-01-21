@@ -46,7 +46,7 @@ const Hero = () => {
                 <div className="text-sm text-muted-foreground">Casos resueltos</div>
               </div>
               <div className="text-center">
-                <div className="text-3xl font-bold text-primary">Atención perzonalizada</div>
+                <div className="text-3xl font-bold text-primary">Atención </div>
                 <div className="text-sm text-muted-foreground">Alta calidad</div>
               </div>
             </div>
